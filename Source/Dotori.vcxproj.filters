@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dotori.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DotoriDlg.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Logindialog.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SignDialog.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectDialog.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="FightDialog.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ConnectDialog.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PEOPLE_MENU.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RULE_MENU.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CMySocket.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveLoad.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dotori.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DotoriDlg.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Logindialog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SignDialog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectDialog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FightDialog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ConnectDialog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PEOPLE_MENU.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RULE_MENU.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CMySocket.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveLoad.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Dotori.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Dotori.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Dotori.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Release\main_start.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Release\main_exit.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="select_ok.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="connect_fight.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_2.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_3.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_4.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_5.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_6.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_7.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_8.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_9.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Release\dotori_check.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_10.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_11.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_12.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_13.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_14.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_15.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_16.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_17.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_18.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dotori_check.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
